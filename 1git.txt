@@ -1,0 +1,16 @@
+
+Dhruv Patel@LAPTOP-1K6P2SG0 MINGW64 ~/Desktop/git
+$ git init
+Initialized empty Git repository in C:/Users/Dhruv Patel/Desktop/git/.git/
+
+Dhruv Patel@LAPTOP-1K6P2SG0 MINGW64 ~/Desktop/git (master)
+$ ls
+git1.txt
+
+Dhruv Patel@LAPTOP-1K6P2SG0 MINGW64 ~/Desktop/git (master)
+$
+
+
+
+
+
